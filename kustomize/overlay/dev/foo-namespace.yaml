@@ -1,0 +1,10 @@
+apiVersion: v1
+kind: Namespace
+metadata:
+  name: foo
+  labels:
+    environment-id: env_9e4adfe5-ca89-4fb8-98cb-03f2e17cc566
+    project-id: project_54693f6f-5689-441c-a5c4-4a808a887f44
+    project-name: azureaws
+    environment-name: dev
+    organization-id: org_01b50229-db34-43d4-8f3e-d1aeb683d900

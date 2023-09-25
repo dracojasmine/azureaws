@@ -1,0 +1,10 @@
+apiVersion: v1
+kind: Namespace
+metadata:
+  name: mar
+  labels:
+    environment-id: env_6766d144-3c8d-452a-9d00-da69d9297210
+    project-id: project_54693f6f-5689-441c-a5c4-4a808a887f44
+    project-name: azureaws
+    environment-name: staging
+    organization-id: org_01b50229-db34-43d4-8f3e-d1aeb683d900

@@ -1,0 +1,10 @@
+apiVersion: v1
+kind: Namespace
+metadata:
+  name: bar
+  labels:
+    environment-id: env_9673ba4e-0e6b-4bdb-97c6-4f4d026bc312
+    project-id: project_54693f6f-5689-441c-a5c4-4a808a887f44
+    project-name: azureaws
+    environment-name: prod
+    organization-id: org_01b50229-db34-43d4-8f3e-d1aeb683d900
